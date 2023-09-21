@@ -92,8 +92,8 @@ button {
         font-size: 50px;
     }
     button{
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         border-radius: 5px;
         margin: 7px;
         font-size: 20px;
@@ -103,10 +103,10 @@ button {
         padding-left: 20px;
     }
     .zero{
-        width: 53%;;
+        width: 50%;;
     }
     .equal{
-        width: 34%
+        width: 30%
     }
     
 }
